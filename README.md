@@ -50,7 +50,7 @@ VMware Cloud Foundation (VCF) · vSphere · ESXi · vSAN · NSX
 
 ---
 
-## 🚀 Featured Experience
+## Featured Experience
 
 ### Microsoft Azure Subscription Vending Product
 **T-Systems ICT India**
