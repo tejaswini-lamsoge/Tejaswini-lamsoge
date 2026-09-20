@@ -8,16 +8,16 @@ Previously, I worked at **T-Systems ICT India** as a Software Developer / Appren
 
 ---
 
-## 👩💻 About Me
+## 💻 About Me
 
-- 🎓 MSc Artificial Intelligence @ **University of Edinburgh**
-- 💻 Bachelor of Computer Science (BCS)
-- ☁️ Experience with **Microsoft Azure** and enterprise private cloud environments
-- 🐍 Interested in **Python, Artificial Intelligence, Data Science and Cloud Computing**
-- 🏗️ Hands-on experience with **VMware Cloud Foundation, vSphere, ESXi, vSAN and NSX**
-- 📊 Built Python-based **infrastructure health and utilisation dashboards**
-- 🌱 Currently expanding my knowledge in **Artificial Intelligence, Machine Learning and Cloud Technologies**
-- 🔍 Interested in opportunities across **AI, Software Development, Data, Cloud and Technology**
+- MSc Artificial Intelligence @ **University of Edinburgh**
+- Bachelor of Computer Science (BCS)
+- Experience with **Microsoft Azure** and enterprise private cloud environments
+- Interested in **Python, Artificial Intelligence, Data Science and Cloud Computing**
+- Hands-on experience with **VMware Cloud Foundation, vSphere, ESXi, vSAN and NSX**
+- Built Python-based **infrastructure health and utilisation dashboards**
+- Currently expanding my knowledge in **Artificial Intelligence, Machine Learning and Cloud Technologies**
+- Interested in opportunities across **AI, Software Development, Data, Cloud and Technology**
 
 ---
 
