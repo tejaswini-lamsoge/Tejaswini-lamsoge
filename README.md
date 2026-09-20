@@ -1,4 +1,3 @@
-````markdown
 # Hi, I'm Tejaswini Lamsoge 👋
 
 ### MSc Artificial Intelligence Student | Software Development | Cloud & Infrastructure
@@ -9,7 +8,7 @@ Previously, I worked at **T-Systems ICT India** as a Software Developer / Appren
 
 ---
 
-## 👩‍💻 About Me
+## 👩💻 About Me
 
 - 🎓 MSc Artificial Intelligence @ **University of Edinburgh**
 - 💻 Bachelor of Computer Science (BCS)
@@ -115,46 +114,3 @@ Data Science
 Python for AI
 Cloud Computing
 Generative AI
-````
-
-I'm particularly interested in understanding how **AI and cloud technologies can be combined to build practical, scalable solutions**.
-
----
-
-## 🎯 Career Interests
-
-I'm interested in exploring opportunities in:
-
-* Artificial Intelligence
-* Machine Learning
-* Software Development
-* Data Science
-* Cloud Computing
-* Cloud Engineering
-* DevOps
-* AI Engineering
-
----
-
-## 📫 Connect With Me
-
-📧 **Email:** [tejusmit11@gmail.com](mailto:tejusmit11@gmail.com)
-
-💼 **LinkedIn:** [linkedin.com/in/YOUR-LINKEDIN](https://linkedin.com/in/YOUR-LINKEDIN)
-
-🐙 **GitHub:** [github.com/YOUR-GITHUB](https://github.com/YOUR-GITHUB)
-
----
-
-⭐ Thanks for visiting my profile!
-
-```
-
-### One thing I'd change from a typical GitHub README
-
-I deliberately **didn't put fake GitHub statistics, contribution graphs, visitor counters, or dozens of technology badges**. For your profile, the important thing is that a recruiter can understand in **10–15 seconds**:
-
-**Who you are → what you've worked on → what technologies you know → what you're currently learning → what type of roles you're interested in.**
-
-Your **T-Systems Azure + FCI dashboard experience** should be the strongest part of the profile because it's professional industry experience, rather than making the GitHub look like a list of technologies.
-```
